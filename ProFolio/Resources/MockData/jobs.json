@@ -1,0 +1,29 @@
+[
+  {
+    "id": "j1",
+    "title": "Senior iOS Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "description": "Build the next generation of iOS apps.",
+    "postedDate": "2026-06-15T00:00:00Z",
+    "isRemote": false
+  },
+  {
+    "id": "j2",
+    "title": "UX Designer",
+    "company": "Google",
+    "location": "Remote",
+    "description": "Design user-centric interfaces for our products.",
+    "postedDate": "2026-06-14T00:00:00Z",
+    "isRemote": true
+  },
+  {
+    "id": "j3",
+    "title": "Data Analyst",
+    "company": "Facebook",
+    "location": "Menlo Park, CA",
+    "description": "Analyze large datasets to drive business decisions.",
+    "postedDate": "2026-06-13T00:00:00Z",
+    "isRemote": false
+  }
+]
